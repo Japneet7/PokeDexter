@@ -6,6 +6,4 @@ Check it out [here](https://reactedex.com)
 
 
 
-NOTES:
 
-- Battling is still a WIP
